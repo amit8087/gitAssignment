@@ -6,6 +6,7 @@ class Solution {
             if(t.charAt(i)!=' ')
                 length++;
         else break;
+        System.out.println("Hi This is Akash");
     return length;
     }
 
